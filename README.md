@@ -1,4 +1,4 @@
-
+Nowadays, ticket scams and ticket sales are commonly related, which is a pro- blem because it leads to a lack of trust on the part of customers. These scams consist of duplicate tickets that are sold as copies of the original through multi- vendor services or the exchange between individuals. Commonly this is spread on social networks, when the owner of the ticket cannot attend the event since it is the fastest way of communication. This project proposes the solution to the aforementioned problem by analyzing and developing a decentralized platform that will allow users to obtain a unique token in the form of a ticket. This token will authenticate the purchase of the token and give them access to the event. The platform also offers users to resell previously purchased tickets in case of not being able to attend, when this action is performed the ticket will be transfe- rred from one user to another leaving at all times a record in Blockchain about who is the owner.
 
 My application demonstrates how two completely different users interact with our platform, and we will showcase several different scenarios.
 
